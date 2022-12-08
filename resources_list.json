@@ -820,26 +820,6 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/DIY_gacha_pool/role_2.json",
-    "hash": "e4766bea3e195ebff23d78cbc8fd7829",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/DIY_gacha_pool/weapon.json",
-    "hash": "88e17490bcaa6edf2a04a3e94b3ac10f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/DIY_gacha_pool/role_1.json",
-    "hash": "fc5b84b9f5adfe9c357c515c44288ae6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/DIY_gacha_pool/all_star.json",
-    "hash": "7f016ca9f5cfb51e624adbf823d16144",
-    "lock": true
-  },
-  {
     "path": "LittlePaimon/gacha_res/类型/双手剑.png",
     "hash": "48ba45676cddbf98cea2e1df37017bcc",
     "lock": true
