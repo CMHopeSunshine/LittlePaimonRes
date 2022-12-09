@@ -1730,6 +1730,16 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/artifact/不知名毛.png",
+    "hash": "96c9315b11242f01bacc8f9f5189828f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/artifact/不知名花.png",
+    "hash": "0606bf022a3ffcbc838c61e97da93c35",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/chara_bag/chara_5star.png",
     "hash": "dfe93f905d1a2b010b59e49d46f452c7",
     "lock": true
