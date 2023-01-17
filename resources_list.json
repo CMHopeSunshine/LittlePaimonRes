@@ -1,5 +1,10 @@
 [
   {
+    "path": "fonts/bahnschrift_regular.ttf",
+    "hash": "551f5d12731d3747e5182bd3e8a7683c",
+    "lock": true
+  },
+  {
     "path": "fonts/SourceHanSerifCN-Bold.otf",
     "hash": "8648fa69186be85c794ccd1dee3303ca",
     "lock": true
@@ -7,11 +12,6 @@
   {
     "path": "fonts/msyhbd.ttc",
     "hash": "c8d4adc05081f9dff739ee4f5885a0bc",
-    "lock": true
-  },
-  {
-    "path": "fonts/number.ttf",
-    "hash": "14f612b0fffaf45dd1409d0d4ef4ede5",
     "lock": true
   },
   {
@@ -25,6 +25,16 @@
     "lock": true
   },
   {
+    "path": "fonts/SourceHanSansCN-Bold.otf",
+    "hash": "8e4c4a88ebd1687cb8ac0c8e7d8958f9",
+    "lock": true
+  },
+  {
+    "path": "fonts/bahnschrift_bold.ttf",
+    "hash": "551f5d12731d3747e5182bd3e8a7683c",
+    "lock": true
+  },
+  {
     "path": "fonts/msyh.ttc",
     "hash": "4f6a5917d8a4c179f8c3ed7eec7e3a48",
     "lock": true
@@ -35,338 +45,93 @@
     "lock": true
   },
   {
-    "path": "fonts/bahnschrift_bold.ttf",
-    "hash": "551f5d12731d3747e5182bd3e8a7683c",
+    "path": "fonts/number.ttf",
+    "hash": "14f612b0fffaf45dd1409d0d4ef4ede5",
     "lock": true
   },
   {
-    "path": "fonts/SourceHanSansCN-Bold.otf",
-    "hash": "8e4c4a88ebd1687cb8ac0c8e7d8958f9",
+    "path": "LittlePaimon/abyss/4bigbox.png",
+    "hash": "f9b3675ca743f8f3778a73d08869e742",
     "lock": true
   },
   {
-    "path": "fonts/bahnschrift_regular.ttf",
-    "hash": "551f5d12731d3747e5182bd3e8a7683c",
+    "path": "LittlePaimon/abyss/floor10.png",
+    "hash": "f595554e951f295a6f8df7e36c8f485b",
     "lock": true
   },
   {
-    "path": "LittlePaimon/artifact/不知名花.png",
-    "hash": "0606bf022a3ffcbc838c61e97da93c35",
+    "path": "LittlePaimon/abyss/floor12.png",
+    "hash": "a2cce33464102163a91f3b6fcce020e7",
     "lock": true
   },
   {
-    "path": "LittlePaimon/artifact/不知名毛.png",
-    "hash": "96c9315b11242f01bacc8f9f5189828f",
+    "path": "LittlePaimon/abyss/floor9.png",
+    "hash": "2cceae7bfeba7f480a3a151900afa1d5",
     "lock": true
   },
   {
-    "path": "LittlePaimon/genshin_map/point_icon.png",
-    "hash": "0a2f7de9f85345f3aaae6220bf91d91b",
+    "path": "LittlePaimon/abyss/bg.png",
+    "hash": "cb59927dcccc4e296382627401bd2688",
     "lock": true
   },
   {
-    "path": "LittlePaimon/genshin_map/point_box.png",
-    "hash": "47d26b4d06b48cd327a981368b408f80",
+    "path": "LittlePaimon/abyss/nock.png",
+    "hash": "2a60aefdeb0ba044b9c7a3a3ecf79a0a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/genshin_map/anchor_icon.png",
-    "hash": "479f87996e34186a44196c523eab1014",
+    "path": "LittlePaimon/abyss/data_line.png",
+    "hash": "622c1f74794801a5e78ba1712a2a4210",
     "lock": true
   },
   {
-    "path": "LittlePaimon/genshin_map/status_icon.png",
-    "hash": "744ec978c398e6109220c5d21b8d6062",
+    "path": "LittlePaimon/abyss/4smallbox.png",
+    "hash": "cb5999998ff1ac4ae1199a8d271bc042",
     "lock": true
   },
   {
-    "path": "LittlePaimon/genshin_map/bg.png",
-    "hash": "beb4aa438ffc0686915e7be490d0c7c8",
+    "path": "LittlePaimon/abyss/5smallbox.png",
+    "hash": "9928a1aa07212c5cca9c74336aaad105",
     "lock": true
   },
   {
-    "path": "LittlePaimon/general/bubble.png",
-    "hash": "21891b64817626f57f9933bfb32becfd",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black2.png",
-    "hash": "870fa9f5fee2da1c7aa58a5481f66057",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/tag.png",
-    "hash": "e5213af1717effb48f4377f2320534ef",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange.png",
-    "hash": "eb112021959a4c939b7623cf275df1e4",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord.png",
-    "hash": "9bcd7c646aa69e1478b1adec375582eb",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_card2.png",
-    "hash": "5257ced86763be06016ca0382caf76fc",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片顶部无字.png",
-    "hash": "d35014eec279f325098551dcaabb8022",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_bord.png",
-    "hash": "f810aa771fdde64a8e12f2e57195bf07",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_circle.png",
-    "hash": "1db6af681afe0fca5b26e7621e8be90a",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord_small.png",
-    "hash": "3ab2910359a595cbb07ce3577a4eb7dc",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片身体.png",
-    "hash": "05b1cfede7bc82eb92ab31f89821e844",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/line.png",
-    "hash": "1df92e0c545528ab7d1cb42c8f5746e3",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_card.png",
-    "hash": "b8f6ea0b3d152d32bce2576a1c13bdda",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord_large.png",
-    "hash": "b90bc419beeb9894fbd88567ec191e19",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片底部.png",
-    "hash": "35d9e58dda79621260fbcf285d4d4c83",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/bg.png",
-    "hash": "dd6363ab3d08fe72514abed9e4e8ce47",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_card.png",
-    "hash": "c8af08bf429c4261c92f61c098e0e15a",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black.png",
-    "hash": "41c1d3c4250bbb041f0272d4457d1b05",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/frame.png",
-    "hash": "0a0a3dabe3690ba4beb093a6f1a34ddd",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/chara_bag/chara_4star.png",
-    "hash": "e8c9a35929e481546486a4c3eee13aa9",
+    "path": "LittlePaimon/abyss/team_bg.png",
+    "hash": "ab92dcb16682d9630d11d5f2d8979bd4",
     "lock": true
   },
   {
-    "path": "LittlePaimon/chara_bag/chara_5star.png",
-    "hash": "dfe93f905d1a2b010b59e49d46f452c7",
+    "path": "LittlePaimon/abyss/floor11.png",
+    "hash": "aae0a7dec030040ff6caf7c15d69241e",
     "lock": true
   },
   {
-    "path": "LittlePaimon/chara_bag/bg.png",
-    "hash": "b884cfe3301619ca64200e493fea3d72",
+    "path": "LittlePaimon/abyss/statistics_bg.png",
+    "hash": "612edbeb057f1949de348a9f29c3cc83",
     "lock": true
   },
   {
-    "path": "LittlePaimon/monthinfo/circle.png",
-    "hash": "2289f031e3d3617eb7975f2ad98197c5",
+    "path": "LittlePaimon/abyss/nodata.png",
+    "hash": "ca7a4b8a3d0d3b8c0487699ab440f503",
     "lock": true
   },
   {
-    "path": "LittlePaimon/monthinfo/box.png",
-    "hash": "9cd49d13d62b4fffecf04ba3c9aa207e",
+    "path": "LittlePaimon/abyss/5bigbox.png",
+    "hash": "05daf6bc3caf915900bcd831a125704e",
     "lock": true
   },
   {
-    "path": "LittlePaimon/monthinfo/摩拉.png",
-    "hash": "bd648d8ec54f17cb1d03165ad0540bff",
+    "path": "LittlePaimon/gacha_log/欧3.png",
+    "hash": "e15d04e4c4c06e5a97a8eea006e7f358",
     "lock": true
   },
   {
-    "path": "LittlePaimon/monthinfo/line.png",
-    "hash": "90b6859f9ef81ad2e49704f5e76993ee",
+    "path": "LittlePaimon/gacha_log/中2.png",
+    "hash": "5186e860d627277f2dd7838a4442fe7d",
     "lock": true
   },
   {
-    "path": "LittlePaimon/monthinfo/原石.png",
-    "hash": "9e098004d762475c95cbb0b3316ab7b5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/bg.png",
-    "hash": "a24ed4ee19507d279f3f4620ead0251e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_草.png",
-    "hash": "c572d15addc286f8159c53f09b8a617c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_雷.png",
-    "hash": "3105ed05df3255aa83c0e5749ead73c1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/底遮罩.png",
-    "hash": "adb85d1b6ebdcb777e41c134f0067f09",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_风.png",
-    "hash": "4410c21c0e37e762a2c5420f768d9e5c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_水.png",
-    "hash": "8b2482bd733ff45899941921ea673431",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_岩.png",
-    "hash": "30b79b650865424b23668d6d84b651f9",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_冰.png",
-    "hash": "6216bd23e5b1dc143047c93f4e85dc9e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/至冬.png",
-    "hash": "9759430346e2e4746b868788907065dc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_岩.png",
-    "hash": "69fb2d5834980052d2d659023af1e030",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/稻妻.png",
-    "hash": "4547a210a43b686ed045c52d75e585c5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/评分S.png",
-    "hash": "ceec0d61c99090f0d2634fb807967a4f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_水.png",
-    "hash": "0948bf99feb0d743a2492417d545d4cc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/评分C.png",
-    "hash": "d31a0857199fc8467e844d1f4e129f58",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_草.png",
-    "hash": "44844bd509ed5f82d107eed7e1f73adf",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_风.png",
-    "hash": "f3ba05f93f8aa87cfc323f3c8c9a0d3e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/评分A.png",
-    "hash": "55d2da27c427df88f7a5fe43bd4729a7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/star.png",
-    "hash": "e2c7727d8919524c7d8b76fd5b4f0b5b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_雷.png",
-    "hash": "b03c98ac71169b11a84e4be1fc8f2984",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_冰.png",
-    "hash": "326cb87cc756dfca6d329bbad6de2096",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/锁.png",
-    "hash": "eef20ec42a50d529ff48579a379c71d7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_灰.png",
-    "hash": "f1a9cf6bd7d90995ef3552626d4628b0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/评分B.png",
-    "hash": "adf873b46ebcde23297b891ebfab718f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/图标_火.png",
-    "hash": "27b264f50d1def8aeda534b6b04d4faa",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/蒙德.png",
-    "hash": "f390cb4c56e7070ba876fb0dc1592789",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/璃月.png",
-    "hash": "cd2072e82feaab72136736a16afa893f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/等级遮罩.png",
-    "hash": "4df5e79f06f31f1cd68d44f399bce0fa",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/须弥.png",
-    "hash": "12bd64bde447423ea75d4a51668ae255",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/enka_card/背景_火.png",
-    "hash": "7b47c49c87874824ce406c08ced4072e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/非3.png",
-    "hash": "957500921b1388ae1192ba6e30e8853b",
+    "path": "LittlePaimon/gacha_log/非2.png",
+    "hash": "5d5b7fdb4c511f959e43867e3ef9721e",
     "lock": true
   },
   {
@@ -375,8 +140,28 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/text.png",
-    "hash": "9b3fa80efd90433a62528ce8bcb06d53",
+    "path": "LittlePaimon/gacha_log/吉1.png",
+    "hash": "76f35cd7ea9ebcb4475f5f54a7a2fa95",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_log/bg.png",
+    "hash": "8dc3f2de95991e9de37e35b128807fe7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_log/中3.png",
+    "hash": "5307412a319b4e43c596af28b26497a2",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_log/broken_line_bg.png",
+    "hash": "1bb25e6d6a7b5ed877f1fae9d1c976b6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_log/非3.png",
+    "hash": "957500921b1388ae1192ba6e30e8853b",
     "lock": true
   },
   {
@@ -385,8 +170,13 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/small_circle.png",
-    "hash": "e0ee9cbb567bea1ef890571edfe6b805",
+    "path": "LittlePaimon/gacha_log/非1.png",
+    "hash": "a9924d1b40f62b1d3f9c2082147ce35a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_log/吉2.png",
+    "hash": "e06999a4ffd9bbfce1b928dd5bbda3ba",
     "lock": true
   },
   {
@@ -400,13 +190,8 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/detail_bg.png",
-    "hash": "33319b2f9738222b6b106a79e2ab664c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/中2.png",
-    "hash": "5186e860d627277f2dd7838a4442fe7d",
+    "path": "LittlePaimon/gacha_log/item_avatar_4.png",
+    "hash": "20216455c2bcae8a1221f0e953dd3680",
     "lock": true
   },
   {
@@ -415,38 +200,23 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/gacha_log/text.png",
+    "hash": "9b3fa80efd90433a62528ce8bcb06d53",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/gacha_log/item_avatar_5.png",
     "hash": "00345ec5bc2b7ae492ea4f5b9b4df990",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/吉1.png",
-    "hash": "76f35cd7ea9ebcb4475f5f54a7a2fa95",
+    "path": "LittlePaimon/gacha_log/detail_bg.png",
+    "hash": "33319b2f9738222b6b106a79e2ab664c",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/非1.png",
-    "hash": "a9924d1b40f62b1d3f9c2082147ce35a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/broken_line_bg.png",
-    "hash": "1bb25e6d6a7b5ed877f1fae9d1c976b6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/吉2.png",
-    "hash": "e06999a4ffd9bbfce1b928dd5bbda3ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/bg.png",
-    "hash": "8dc3f2de95991e9de37e35b128807fe7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_log/非2.png",
-    "hash": "5d5b7fdb4c511f959e43867e3ef9721e",
+    "path": "LittlePaimon/gacha_log/small_circle.png",
+    "hash": "e0ee9cbb567bea1ef890571edfe6b805",
     "lock": true
   },
   {
@@ -455,103 +225,298 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/item_avatar_4.png",
-    "hash": "20216455c2bcae8a1221f0e953dd3680",
+    "path": "LittlePaimon/chara_bag/bg.png",
+    "hash": "b884cfe3301619ca64200e493fea3d72",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/欧3.png",
-    "hash": "e15d04e4c4c06e5a97a8eea006e7f358",
+    "path": "LittlePaimon/chara_bag/chara_4star.png",
+    "hash": "e8c9a35929e481546486a4c3eee13aa9",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_log/中3.png",
-    "hash": "5307412a319b4e43c596af28b26497a2",
+    "path": "LittlePaimon/chara_bag/chara_5star.png",
+    "hash": "dfe93f905d1a2b010b59e49d46f452c7",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/4bigbox.png",
-    "hash": "f9b3675ca743f8f3778a73d08869e742",
+    "path": "LittlePaimon/enka_card/评分C.png",
+    "hash": "d31a0857199fc8467e844d1f4e129f58",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/5smallbox.png",
-    "hash": "9928a1aa07212c5cca9c74336aaad105",
+    "path": "LittlePaimon/enka_card/图标_草.png",
+    "hash": "c572d15addc286f8159c53f09b8a617c",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/floor12.png",
-    "hash": "a2cce33464102163a91f3b6fcce020e7",
+    "path": "LittlePaimon/enka_card/图标_雷.png",
+    "hash": "b03c98ac71169b11a84e4be1fc8f2984",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/statistics_bg.png",
-    "hash": "612edbeb057f1949de348a9f29c3cc83",
+    "path": "LittlePaimon/enka_card/评分B.png",
+    "hash": "adf873b46ebcde23297b891ebfab718f",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/floor9.png",
-    "hash": "2cceae7bfeba7f480a3a151900afa1d5",
+    "path": "LittlePaimon/enka_card/背景_风.png",
+    "hash": "f3ba05f93f8aa87cfc323f3c8c9a0d3e",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/team_bg.png",
-    "hash": "ab92dcb16682d9630d11d5f2d8979bd4",
+    "path": "LittlePaimon/enka_card/至冬.png",
+    "hash": "9759430346e2e4746b868788907065dc",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/floor10.png",
-    "hash": "f595554e951f295a6f8df7e36c8f485b",
+    "path": "LittlePaimon/enka_card/等级遮罩.png",
+    "hash": "4df5e79f06f31f1cd68d44f399bce0fa",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/5bigbox.png",
-    "hash": "05daf6bc3caf915900bcd831a125704e",
+    "path": "LittlePaimon/enka_card/图标_水.png",
+    "hash": "8b2482bd733ff45899941921ea673431",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/4smallbox.png",
-    "hash": "cb5999998ff1ac4ae1199a8d271bc042",
+    "path": "LittlePaimon/enka_card/背景_雷.png",
+    "hash": "3105ed05df3255aa83c0e5749ead73c1",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/nodata.png",
-    "hash": "ca7a4b8a3d0d3b8c0487699ab440f503",
+    "path": "LittlePaimon/enka_card/评分A.png",
+    "hash": "55d2da27c427df88f7a5fe43bd4729a7",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/nock.png",
-    "hash": "2a60aefdeb0ba044b9c7a3a3ecf79a0a",
+    "path": "LittlePaimon/enka_card/稻妻.png",
+    "hash": "4547a210a43b686ed045c52d75e585c5",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/bg.png",
-    "hash": "cb59927dcccc4e296382627401bd2688",
+    "path": "LittlePaimon/enka_card/锁.png",
+    "hash": "eef20ec42a50d529ff48579a379c71d7",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/floor11.png",
-    "hash": "aae0a7dec030040ff6caf7c15d69241e",
+    "path": "LittlePaimon/enka_card/图标_岩.png",
+    "hash": "30b79b650865424b23668d6d84b651f9",
     "lock": true
   },
   {
-    "path": "LittlePaimon/abyss/data_line.png",
-    "hash": "622c1f74794801a5e78ba1712a2a4210",
+    "path": "LittlePaimon/enka_card/背景_草.png",
+    "hash": "44844bd509ed5f82d107eed7e1f73adf",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/background.png",
-    "hash": "a4bcc1f0969ee24b6ace5d8c2fffd635",
+    "path": "LittlePaimon/enka_card/背景_岩.png",
+    "hash": "69fb2d5834980052d2d659023af1e030",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/3_background.png",
-    "hash": "2703652ef7bf62742caf6c0e72928b8e",
+    "path": "LittlePaimon/enka_card/图标_火.png",
+    "hash": "27b264f50d1def8aeda534b6b04d4faa",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/5_background.png",
-    "hash": "fadd5486289092f6b495c90305f2f6cb",
+    "path": "LittlePaimon/enka_card/蒙德.png",
+    "hash": "f390cb4c56e7070ba876fb0dc1592789",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/背景_冰.png",
+    "hash": "6216bd23e5b1dc143047c93f4e85dc9e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/图标_灰.png",
+    "hash": "f1a9cf6bd7d90995ef3552626d4628b0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/图标_风.png",
+    "hash": "4410c21c0e37e762a2c5420f768d9e5c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/璃月.png",
+    "hash": "cd2072e82feaab72136736a16afa893f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/背景_水.png",
+    "hash": "0948bf99feb0d743a2492417d545d4cc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/背景_火.png",
+    "hash": "7b47c49c87874824ce406c08ced4072e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/图标_冰.png",
+    "hash": "326cb87cc756dfca6d329bbad6de2096",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/star.png",
+    "hash": "e2c7727d8919524c7d8b76fd5b4f0b5b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/底遮罩.png",
+    "hash": "adb85d1b6ebdcb777e41c134f0067f09",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/评分S.png",
+    "hash": "ceec0d61c99090f0d2634fb807967a4f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/须弥.png",
+    "hash": "12bd64bde447423ea75d4a51668ae255",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/general/卡片顶部无字.png",
+    "hash": "d35014eec279f325098551dcaabb8022",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/卡片底部.png",
+    "hash": "35d9e58dda79621260fbcf285d4d4c83",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/bubble.png",
+    "hash": "21891b64817626f57f9933bfb32becfd",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_circle.png",
+    "hash": "1db6af681afe0fca5b26e7621e8be90a",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_bord.png",
+    "hash": "f810aa771fdde64a8e12f2e57195bf07",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_card.png",
+    "hash": "c8af08bf429c4261c92f61c098e0e15a",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black2.png",
+    "hash": "870fa9f5fee2da1c7aa58a5481f66057",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black.png",
+    "hash": "41c1d3c4250bbb041f0272d4457d1b05",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/bg.png",
+    "hash": "dd6363ab3d08fe72514abed9e4e8ce47",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/line.png",
+    "hash": "1df92e0c545528ab7d1cb42c8f5746e3",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/tag.png",
+    "hash": "e5213af1717effb48f4377f2320534ef",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/frame.png",
+    "hash": "0a0a3dabe3690ba4beb093a6f1a34ddd",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord_small.png",
+    "hash": "3ab2910359a595cbb07ce3577a4eb7dc",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_card.png",
+    "hash": "b8f6ea0b3d152d32bce2576a1c13bdda",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_card2.png",
+    "hash": "5257ced86763be06016ca0382caf76fc",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord.png",
+    "hash": "9bcd7c646aa69e1478b1adec375582eb",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/卡片身体.png",
+    "hash": "05b1cfede7bc82eb92ab31f89821e844",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord_large.png",
+    "hash": "b90bc419beeb9894fbd88567ec191e19",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange.png",
+    "hash": "eb112021959a4c939b7623cf275df1e4",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/genshin_map/status_icon.png",
+    "hash": "744ec978c398e6109220c5d21b8d6062",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/bg.png",
+    "hash": "beb4aa438ffc0686915e7be490d0c7c8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/point_icon.png",
+    "hash": "0a2f7de9f85345f3aaae6220bf91d91b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/anchor_icon.png",
+    "hash": "479f87996e34186a44196c523eab1014",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/point_box.png",
+    "hash": "47d26b4d06b48cd327a981368b408f80",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/bg.png",
+    "hash": "d98596cfa77b070bdc5b0b9ee5b8be3a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/chara_4star.png",
+    "hash": "2874b2ffca8fdd3a36ba012087b646fc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/chara_5star.png",
+    "hash": "bbf0656619f90cafeaaa1d7a5fb6a085",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/white_bg.png",
+    "hash": "7bf5486bcfb57868f1b3814838feb537",
     "lock": true
   },
   {
@@ -560,8 +525,8 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/4_star.png",
-    "hash": "0c413c274aa1f00663fb26ee78ccc96c",
+    "path": "LittlePaimon/gacha_res/3_star.png",
+    "hash": "c634bcf87f0a21079f0bdad7764043ed",
     "lock": true
   },
   {
@@ -570,23 +535,328 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/gacha_res/4_star.png",
+    "hash": "0c413c274aa1f00663fb26ee78ccc96c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/background.png",
+    "hash": "a4bcc1f0969ee24b6ace5d8c2fffd635",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/5_background.png",
+    "hash": "fadd5486289092f6b495c90305f2f6cb",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/3_background.png",
+    "hash": "2703652ef7bf62742caf6c0e72928b8e",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/gacha_res/4_background.png",
     "hash": "cc37a8cac9c6e89f113b2a5f430c9543",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/3_star.png",
-    "hash": "c634bcf87f0a21079f0bdad7764043ed",
+    "path": "LittlePaimon/gacha_res/角色/菲谢尔.png",
+    "hash": "2d760acd2bb32d6205abc80919f7de39",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/元素/岩.png",
-    "hash": "0f2aa1ed06722dc9333e690c0409b470",
+    "path": "LittlePaimon/gacha_res/角色/行秋.png",
+    "hash": "f4f9b61da837624697b4bbef6358e1fe",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/元素/草.png",
-    "hash": "f5b1d7c9dafbe8efd47d0480f7539625",
+    "path": "LittlePaimon/gacha_res/角色/珊瑚宫心海.png",
+    "hash": "c416b81548f1604fe642c977f62e61f1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/莫娜.png",
+    "hash": "cb301b771606970493f3de4a3352e790",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/重云.png",
+    "hash": "22ec25ea6389e32944d5210b758e5e96",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/多莉.png",
+    "hash": "48ae3af43088c546712a8e6310640813",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/砂糖.png",
+    "hash": "ff3f2221c6f74dc9d137b8f6e088ea58",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/久岐忍.png",
+    "hash": "5d03212f343a8749c5ad403f4efee3f6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/云堇.png",
+    "hash": "dd5597c990e5f6824d4f5d27fb38f3f8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/可莉.png",
+    "hash": "51f5d4a21fe014ec8121f0be3dc58254",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/琴.png",
+    "hash": "f147bd27f2c047b574bd50df63b72da6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/八重神子.png",
+    "hash": "2e8c05b5e7cacafb40bfd5bac278a397",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/班尼特.png",
+    "hash": "f10aacda9a8f88f65a1fcc11c3fecfeb",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/雷泽.png",
+    "hash": "c5a716f6a6dd91b6314699b1ad4deba8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/七七.png",
+    "hash": "19957b6b0d708b319b734ed93788d2e1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/荒泷一斗.png",
+    "hash": "4b8e64bc4651c00ed70d9bb9c27b6be2",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/莱依拉.png",
+    "hash": "e2b7491ab9b75da77c1092fdab4e4ab5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/香菱.png",
+    "hash": "7aa34066a86a56bae443c3c319f45929",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/烟绯.png",
+    "hash": "04724e60dde960f40ffe22edc3fbb062",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/纳西妲.png",
+    "hash": "52ccaaecddd2df4683b15300d2a95113",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/胡桃.png",
+    "hash": "ec0d14c2413c3cc1034b5188956ed5c5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/达达利亚.png",
+    "hash": "d1ada13887b64ffbc40e4cda328775b7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/托马.png",
+    "hash": "5b8f713ae47afd56e500685276810340",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/丽莎.png",
+    "hash": "600a7afcbb9535fc6da49ce496d1658e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/优菈.png",
+    "hash": "5feaf7b484e6c58ea562dc9060ca7780",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/凯亚.png",
+    "hash": "bda822c8b9ce94fae0df5d5619410b2e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/刻晴.png",
+    "hash": "3d1b8b1726bc66d01b41dd5e9d4247e3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/安柏.png",
+    "hash": "c0a9eba837a45e851b1fc8b6290b2b2c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/阿贝多.png",
+    "hash": "2867eed98e18c2dac3e2f46772decef1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/温迪.png",
+    "hash": "1ead30cf9a8610efae2c137ba9077ee6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/流浪者.png",
+    "hash": "7e336fec23dafe2500bc28e90f3b0c1c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/辛焱.png",
+    "hash": "e355f02a61e18b360c0213e7ab7c6ec3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/夜兰.png",
+    "hash": "bfcc8790ec2579ae161bc933bbda6c47",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/鹿野院平藏.png",
+    "hash": "9bbaee128ebe77c339dd628e931a0fb5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/迪奥娜.png",
+    "hash": "1bd265f29403e34ac4366180c56307d8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/凝光.png",
+    "hash": "106264bf3a53898bef4bd397c18f5f4d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/芭芭拉.png",
+    "hash": "0e9807b55dfa5b842e6ab49d1b986ed2",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/坎蒂丝.png",
+    "hash": "333b8738cdaeeda3ae99d20f78757270",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/五郎.png",
+    "hash": "03870670eef0a17949393e2694606f33",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/申鹤.png",
+    "hash": "d7d349e25f0a6052ed22f1af06ab004c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/钟离.png",
+    "hash": "c46641ae225cb974585bdfb9b2844814",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/神里绫华.png",
+    "hash": "f44376d6f666eec132f5de2e83f5e7ae",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/提纳里.png",
+    "hash": "30b189536ed15bec706f86c9722a4d84",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/诺艾尔.png",
+    "hash": "fe254a4431a90b2eab7c96cdfb9eb104",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/宵宫.png",
+    "hash": "08b82d7ed7a10bfb96ce55f6f0f1bfd9",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/早柚.png",
+    "hash": "0616ad85266cdc9ae2c92010112adc17",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/雷电将军.png",
+    "hash": "44691b9fa306fa1722cb569e76a12916",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/魈.png",
+    "hash": "c813945b91bae8cd13d953d70d626628",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/迪卢克.png",
+    "hash": "7344f54a4127fd4fadeb509952a279df",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/珐露珊.png",
+    "hash": "8f8ad507a2ad68ea5a5366c3e2f43a1d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/枫原万叶.png",
+    "hash": "c087054bbfde7410d86865d93851cf20",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/九条裟罗.png",
+    "hash": "2c9ff26af2326c8d22c164a5d772c917",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/柯莱.png",
+    "hash": "9039b464d5dec825ee24dc05bc1c8ec1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/神里绫人.png",
+    "hash": "8253510699fdb2d9ce298f41be7f97c8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/埃洛伊.png",
+    "hash": "7222dd5616fd510a879605cabc4d720e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/赛诺.png",
+    "hash": "7a2e500121ff65b2ee723346077e1fcc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/甘雨.png",
+    "hash": "88100a1979145f61b9dd4145bae043cc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/妮露.png",
+    "hash": "86e803ca416c3996afb6d9b3ff21aa7a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/罗莎莉亚.png",
+    "hash": "cd1dc86d230f4e4aa1ec5530be91b656",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/北斗.png",
+    "hash": "883fa89dd69ac8275c026cc8b4e190a3",
     "lock": true
   },
   {
@@ -600,6 +870,11 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/gacha_res/元素/雷.png",
+    "hash": "c942e7c73d9d52b3599506549155403a",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/gacha_res/元素/冰.png",
     "hash": "74c907c1a1af4fde6d70c9770de49529",
     "lock": true
@@ -610,308 +885,13 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/元素/雷.png",
-    "hash": "c942e7c73d9d52b3599506549155403a",
+    "path": "LittlePaimon/gacha_res/元素/草.png",
+    "hash": "f5b1d7c9dafbe8efd47d0480f7539625",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/角色/妮露.png",
-    "hash": "86e803ca416c3996afb6d9b3ff21aa7a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/赛诺.png",
-    "hash": "7a2e500121ff65b2ee723346077e1fcc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/安柏.png",
-    "hash": "c0a9eba837a45e851b1fc8b6290b2b2c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/莱依拉.png",
-    "hash": "e2b7491ab9b75da77c1092fdab4e4ab5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/提纳里.png",
-    "hash": "30b189536ed15bec706f86c9722a4d84",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/达达利亚.png",
-    "hash": "d1ada13887b64ffbc40e4cda328775b7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/迪奥娜.png",
-    "hash": "1bd265f29403e34ac4366180c56307d8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/阿贝多.png",
-    "hash": "2867eed98e18c2dac3e2f46772decef1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/迪卢克.png",
-    "hash": "7344f54a4127fd4fadeb509952a279df",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/胡桃.png",
-    "hash": "ec0d14c2413c3cc1034b5188956ed5c5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/久岐忍.png",
-    "hash": "5d03212f343a8749c5ad403f4efee3f6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/罗莎莉亚.png",
-    "hash": "cd1dc86d230f4e4aa1ec5530be91b656",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/班尼特.png",
-    "hash": "f10aacda9a8f88f65a1fcc11c3fecfeb",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/神里绫人.png",
-    "hash": "8253510699fdb2d9ce298f41be7f97c8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/莫娜.png",
-    "hash": "cb301b771606970493f3de4a3352e790",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/雷电将军.png",
-    "hash": "44691b9fa306fa1722cb569e76a12916",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/珊瑚宫心海.png",
-    "hash": "c416b81548f1604fe642c977f62e61f1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/宵宫.png",
-    "hash": "08b82d7ed7a10bfb96ce55f6f0f1bfd9",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/埃洛伊.png",
-    "hash": "7222dd5616fd510a879605cabc4d720e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/凯亚.png",
-    "hash": "bda822c8b9ce94fae0df5d5619410b2e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/香菱.png",
-    "hash": "7aa34066a86a56bae443c3c319f45929",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/凝光.png",
-    "hash": "106264bf3a53898bef4bd397c18f5f4d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/魈.png",
-    "hash": "c813945b91bae8cd13d953d70d626628",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/优菈.png",
-    "hash": "5feaf7b484e6c58ea562dc9060ca7780",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/枫原万叶.png",
-    "hash": "c087054bbfde7410d86865d93851cf20",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/鹿野院平藏.png",
-    "hash": "9bbaee128ebe77c339dd628e931a0fb5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/坎蒂丝.png",
-    "hash": "333b8738cdaeeda3ae99d20f78757270",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/甘雨.png",
-    "hash": "88100a1979145f61b9dd4145bae043cc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/钟离.png",
-    "hash": "c46641ae225cb974585bdfb9b2844814",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/纳西妲.png",
-    "hash": "52ccaaecddd2df4683b15300d2a95113",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/托马.png",
-    "hash": "5b8f713ae47afd56e500685276810340",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/七七.png",
-    "hash": "19957b6b0d708b319b734ed93788d2e1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/砂糖.png",
-    "hash": "ff3f2221c6f74dc9d137b8f6e088ea58",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/可莉.png",
-    "hash": "51f5d4a21fe014ec8121f0be3dc58254",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/柯莱.png",
-    "hash": "9039b464d5dec825ee24dc05bc1c8ec1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/珐露珊.png",
-    "hash": "8f8ad507a2ad68ea5a5366c3e2f43a1d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/烟绯.png",
-    "hash": "04724e60dde960f40ffe22edc3fbb062",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/芭芭拉.png",
-    "hash": "0e9807b55dfa5b842e6ab49d1b986ed2",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/诺艾尔.png",
-    "hash": "fe254a4431a90b2eab7c96cdfb9eb104",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/神里绫华.png",
-    "hash": "f44376d6f666eec132f5de2e83f5e7ae",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/申鹤.png",
-    "hash": "d7d349e25f0a6052ed22f1af06ab004c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/夜兰.png",
-    "hash": "bfcc8790ec2579ae161bc933bbda6c47",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/刻晴.png",
-    "hash": "3d1b8b1726bc66d01b41dd5e9d4247e3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/早柚.png",
-    "hash": "0616ad85266cdc9ae2c92010112adc17",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/北斗.png",
-    "hash": "883fa89dd69ac8275c026cc8b4e190a3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/丽莎.png",
-    "hash": "600a7afcbb9535fc6da49ce496d1658e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/八重神子.png",
-    "hash": "2e8c05b5e7cacafb40bfd5bac278a397",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/雷泽.png",
-    "hash": "c5a716f6a6dd91b6314699b1ad4deba8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/九条裟罗.png",
-    "hash": "2c9ff26af2326c8d22c164a5d772c917",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/行秋.png",
-    "hash": "f4f9b61da837624697b4bbef6358e1fe",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/多莉.png",
-    "hash": "48ae3af43088c546712a8e6310640813",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/菲谢尔.png",
-    "hash": "2d760acd2bb32d6205abc80919f7de39",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/温迪.png",
-    "hash": "1ead30cf9a8610efae2c137ba9077ee6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/云堇.png",
-    "hash": "dd5597c990e5f6824d4f5d27fb38f3f8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/琴.png",
-    "hash": "f147bd27f2c047b574bd50df63b72da6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/五郎.png",
-    "hash": "03870670eef0a17949393e2694606f33",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/辛焱.png",
-    "hash": "e355f02a61e18b360c0213e7ab7c6ec3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/荒泷一斗.png",
-    "hash": "4b8e64bc4651c00ed70d9bb9c27b6be2",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/流浪者.png",
-    "hash": "7e336fec23dafe2500bc28e90f3b0c1c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/角色/重云.png",
-    "hash": "22ec25ea6389e32944d5210b758e5e96",
+    "path": "LittlePaimon/gacha_res/元素/岩.png",
+    "hash": "0f2aa1ed06722dc9333e690c0409b470",
     "lock": true
   },
   {
@@ -925,6 +905,11 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/gacha_res/类型/双手剑.png",
+    "hash": "48ba45676cddbf98cea2e1df37017bcc",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/gacha_res/类型/单手剑.png",
     "hash": "19d23307257d6e2b380f4da0a6981d94",
     "lock": true
@@ -935,358 +920,8 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/类型/双手剑.png",
-    "hash": "48ba45676cddbf98cea2e1df37017bcc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/暗巷猎手.png",
-    "hash": "2c2faf6737d9563715bb0066a5813081",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/飞天御剑.png",
-    "hash": "d80530444e71f9e1082448bcc36264af",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/无工之剑.png",
-    "hash": "abd9272ac2a61e9e4ce38fea587eae43",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/暗巷闪光.png",
-    "hash": "e5839de4d5bd3e4c804f04c72ebce75f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/沐浴龙血的剑.png",
-    "hash": "4de95be2197b3eb8de5ada9be57d6de8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/铁影阔剑.png",
-    "hash": "9d5d94614e5266bb37b4170676cadc45",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/幽夜华尔兹.png",
-    "hash": "5916b1f4eebf4092c556e15674a52d70",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/护摩之杖.png",
-    "hash": "0e0f26c509f97cd8b6399c5e832175b5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/绝弦.png",
-    "hash": "f96a8d0222e2f2b9e41ac1f60123e8ce",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/笛剑.png",
-    "hash": "4f4487c03db0a696e61343e7ad116cb7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/魔导绪论.png",
-    "hash": "ca058b84a6053d31c435430572752109",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/祭礼残章.png",
-    "hash": "67c292d53592b29f012315dcbc214eed",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/翡玉法球.png",
-    "hash": "0ad9ca6d5e5e4041a22a83054af4f756",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/天空之刃.png",
-    "hash": "74769f34e1327da5373e70ddcb76f916",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/斫峰之刃.png",
-    "hash": "c85e4a37f277f828e60a520d6adf7150",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/图莱杜拉的回忆.png",
-    "hash": "a05ae800c70dbf200cd7dbe62c0bb75e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/西风大剑.png",
-    "hash": "d362c2e64c1cb7a7fde38f3cfac128ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/西风长枪.png",
-    "hash": "55c41991e7ca422b6c422431d41e99ae",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/风鹰剑.png",
-    "hash": "33d348bc2a7912630220d544cce24ae4",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/祭礼剑.png",
-    "hash": "443858bf7950668be41d758eb285208e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/圣显之钥.png",
-    "hash": "99dcb97b5c344b00aef77bad55083a82",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/冷刃.png",
-    "hash": "b422a169c1784ef0a17abfc62399490d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/弓藏.png",
-    "hash": "a6845bbce583ad0888b2d3660c8c640a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/辰砂之纺锤.png",
-    "hash": "bebf182787e5645bd5d66e07585a1abe",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/息灾.png",
-    "hash": "8c224e7ceca4fad0d3f4f2d90a228c12",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/黑缨枪.png",
-    "hash": "f5ff640290ca727c53acf64a240e25aa",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/讨龙英杰谭.png",
-    "hash": "59ff09bc57d26ecaadfbaff5c8659919",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/四风原典.png",
-    "hash": "24c7fd1a611fc7e2244c0cb17ac33660",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/千夜浮梦.png",
-    "hash": "693caf4514e14228e12ac5e5f87302d3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/西风猎弓.png",
-    "hash": "c4510b590d62a727286d4fd98e234596",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/天空之脊.png",
-    "hash": "e0fa88fbbcb9faa16b994cfb0a41b29f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/西风剑.png",
-    "hash": "f12cf05ade27207325fd9f0e13de0a56",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/松籁响起之时.png",
-    "hash": "8c0ae05fb324e35ef7a979bc2c336a46",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/祭礼弓.png",
-    "hash": "4fd72d643d88981bba65fc48db598773",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/狼的末路.png",
-    "hash": "d002e5317c5f7258bdf33b4478db5636",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/赤角石溃杵.png",
-    "hash": "343521336e4a535daee2982752385c1a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/冬极白星.png",
-    "hash": "244b62c0ff315a04de2c337c45e47830",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/雾切之回光.png",
-    "hash": "b91a8d1c4f53c6674f59ce6d8f21af71",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/断浪长鳍.png",
-    "hash": "614a9a9d96b1f06f93339666a12abd82",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/阿莫斯之弓.png",
-    "hash": "aa52afd0a18577dbbab0357c614d3e6f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/终末嗟叹之诗.png",
-    "hash": "d9e1bdee74659c520cea26eb84d7f992",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/千岩长枪.png",
-    "hash": "4e1f4fb5d5c223f9f0862b28e33a5078",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/鸦羽弓.png",
-    "hash": "87090e8946e3acf9b64f7d52e2ba142c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/雨裁.png",
-    "hash": "96a4de76ba5f54c1896db6691b827dde",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/千岩古剑.png",
-    "hash": "99f416e5d32308df3dbd16ce372271ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/天空之翼.png",
-    "hash": "a9349fcbcd87885c039046aec9c1e38b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/苍古自由之誓.png",
-    "hash": "6aab5386b5deb14858868cdf8ac38580",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/黎明神剑.png",
-    "hash": "da621add7172fe90b61a131ddcacf0ad",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/钟剑.png",
-    "hash": "2c4f11aaba5c46fa336160dc72272dbb",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/贯虹之槊.png",
-    "hash": "4d6b4869c9ab63932fdb34320965977b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/昭心.png",
-    "hash": "b76d23bb9ce48d4fd7f6fe0e5dd84be6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/匣里龙吟.png",
-    "hash": "49c24cdbfd9bbe6881747611db164de6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/飞雷之弦振.png",
-    "hash": "b956099ea964d309583ea8a7cd6b92bf",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/神乐之真意.png",
-    "hash": "3cf9339435fc33a5450d6e68f83a1a4f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/弹弓.png",
-    "hash": "b68d38b791bdef90de474f036f8aae09",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/证誓之明瞳.png",
-    "hash": "785e6cbac67cd6e479d16fcd2b05550c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/和璞鸢.png",
-    "hash": "258e5f46b41e493680d19aef89e256f8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/祭礼大剑.png",
-    "hash": "8535eb6ecb2ec18f66281810be1d38fe",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/猎人之径.png",
-    "hash": "2e74d425f7775094f55fa2190f47f6b7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/流浪的晚星.png",
-    "hash": "bf09ed26f0ca6ff7d5d1d961181003e6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/恶王丸.png",
-    "hash": "c7fd29dab3d8ba44f8c266c4767e48e7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/曚云之月.png",
-    "hash": "d8eb303e6925538aa6efc40a773a7cc1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/匣里灭辰.png",
-    "hash": "dea241175a1de9232fed95229585c161",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/波乱月白经津.png",
-    "hash": "78def0176e904ecb22ebccf19ff38cfc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/暗巷的酒与诗.png",
-    "hash": "03bba1b6e45407af6ba61b1a6fe8e4e1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/流浪乐章.png",
-    "hash": "8698aa1fa5d6b1f0ce0c4e8b6ffeb512",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/不灭月华.png",
-    "hash": "07e0274edbe324ad0e81d78a8ae0747b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/磐岩结绿.png",
-    "hash": "4b16a8c36922e4dd6c3fbbf5968dc19d",
-    "lock": true
-  },
-  {
     "path": "LittlePaimon/gacha_res/武器/西风秘典.png",
     "hash": "5a754a3d970dee7aa46be2c26a65ae9b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/gacha_res/武器/若水.png",
-    "hash": "7ff620bc3331d490dc2b64865a32cb2a",
     "lock": true
   },
   {
@@ -1295,8 +930,48 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/武器/赤沙之杖.png",
-    "hash": "2201c1f8905edab28fd39498200f706a",
+    "path": "LittlePaimon/gacha_res/武器/尘世之锁.png",
+    "hash": "a900d8b019e8c29e58a37e6e5742e348",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/千夜浮梦.png",
+    "hash": "693caf4514e14228e12ac5e5f87302d3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/松籁响起之时.png",
+    "hash": "8c0ae05fb324e35ef7a979bc2c336a46",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/流浪乐章.png",
+    "hash": "8698aa1fa5d6b1f0ce0c4e8b6ffeb512",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/千岩古剑.png",
+    "hash": "99f416e5d32308df3dbd16ce372271ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/波乱月白经津.png",
+    "hash": "78def0176e904ecb22ebccf19ff38cfc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/飞雷之弦振.png",
+    "hash": "b956099ea964d309583ea8a7cd6b92bf",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/和璞鸢.png",
+    "hash": "258e5f46b41e493680d19aef89e256f8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/恶王丸.png",
+    "hash": "c7fd29dab3d8ba44f8c266c4767e48e7",
     "lock": true
   },
   {
@@ -1305,23 +980,93 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/武器/以理服人.png",
-    "hash": "0ef0afac22ccff179d1455d1cbba27af",
+    "path": "LittlePaimon/gacha_res/武器/祭礼大剑.png",
+    "hash": "8535eb6ecb2ec18f66281810be1d38fe",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/武器/薙草之稻光.png",
-    "hash": "1bfe6999622429bb110197292dbd3768",
+    "path": "LittlePaimon/gacha_res/武器/雾切之回光.png",
+    "hash": "b91a8d1c4f53c6674f59ce6d8f21af71",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/武器/尘世之锁.png",
-    "hash": "a900d8b019e8c29e58a37e6e5742e348",
+    "path": "LittlePaimon/gacha_res/武器/贯虹之槊.png",
+    "hash": "4d6b4869c9ab63932fdb34320965977b",
     "lock": true
   },
   {
-    "path": "LittlePaimon/gacha_res/武器/天空之卷.png",
-    "hash": "9209a4c662a2886f444865f93e87374b",
+    "path": "LittlePaimon/gacha_res/武器/雨裁.png",
+    "hash": "96a4de76ba5f54c1896db6691b827dde",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/匣里龙吟.png",
+    "hash": "49c24cdbfd9bbe6881747611db164de6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/弓藏.png",
+    "hash": "a6845bbce583ad0888b2d3660c8c640a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/息灾.png",
+    "hash": "8c224e7ceca4fad0d3f4f2d90a228c12",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/祭礼残章.png",
+    "hash": "67c292d53592b29f012315dcbc214eed",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/圣显之钥.png",
+    "hash": "99dcb97b5c344b00aef77bad55083a82",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/千岩长枪.png",
+    "hash": "4e1f4fb5d5c223f9f0862b28e33a5078",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/天空之翼.png",
+    "hash": "a9349fcbcd87885c039046aec9c1e38b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/幽夜华尔兹.png",
+    "hash": "5916b1f4eebf4092c556e15674a52d70",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/不灭月华.png",
+    "hash": "07e0274edbe324ad0e81d78a8ae0747b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/终末嗟叹之诗.png",
+    "hash": "d9e1bdee74659c520cea26eb84d7f992",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/无工之剑.png",
+    "hash": "abd9272ac2a61e9e4ce38fea587eae43",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/笛剑.png",
+    "hash": "4f4487c03db0a696e61343e7ad116cb7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/神乐之真意.png",
+    "hash": "3cf9339435fc33a5450d6e68f83a1a4f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/西风猎弓.png",
+    "hash": "c4510b590d62a727286d4fd98e234596",
     "lock": true
   },
   {
@@ -1330,13 +1075,288 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/gacha_res/武器/图莱杜拉的回忆.png",
+    "hash": "a05ae800c70dbf200cd7dbe62c0bb75e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/魔导绪论.png",
+    "hash": "ca058b84a6053d31c435430572752109",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/黎明神剑.png",
+    "hash": "da621add7172fe90b61a131ddcacf0ad",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/天空之刃.png",
+    "hash": "74769f34e1327da5373e70ddcb76f916",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/讨龙英杰谭.png",
+    "hash": "59ff09bc57d26ecaadfbaff5c8659919",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/绝弦.png",
+    "hash": "f96a8d0222e2f2b9e41ac1f60123e8ce",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/西风大剑.png",
+    "hash": "d362c2e64c1cb7a7fde38f3cfac128ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/辰砂之纺锤.png",
+    "hash": "bebf182787e5645bd5d66e07585a1abe",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/暗巷的酒与诗.png",
+    "hash": "03bba1b6e45407af6ba61b1a6fe8e4e1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/若水.png",
+    "hash": "7ff620bc3331d490dc2b64865a32cb2a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/冷刃.png",
+    "hash": "b422a169c1784ef0a17abfc62399490d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/曚云之月.png",
+    "hash": "d8eb303e6925538aa6efc40a773a7cc1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/昭心.png",
+    "hash": "b76d23bb9ce48d4fd7f6fe0e5dd84be6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/薙草之稻光.png",
+    "hash": "1bfe6999622429bb110197292dbd3768",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/匣里灭辰.png",
+    "hash": "dea241175a1de9232fed95229585c161",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/飞天御剑.png",
+    "hash": "d80530444e71f9e1082448bcc36264af",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/证誓之明瞳.png",
+    "hash": "785e6cbac67cd6e479d16fcd2b05550c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/祭礼弓.png",
+    "hash": "4fd72d643d88981bba65fc48db598773",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/铁影阔剑.png",
+    "hash": "9d5d94614e5266bb37b4170676cadc45",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/gacha_res/武器/玛海菈的水色.png",
     "hash": "0d560bcf46a956fd2554a3ede7d8ec22",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/雷电将军-轻笑.png",
-    "hash": "98d26ff18c4886c3246eff5126c9fb17",
+    "path": "LittlePaimon/gacha_res/武器/赤沙之杖.png",
+    "hash": "2201c1f8905edab28fd39498200f706a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/阿莫斯之弓.png",
+    "hash": "aa52afd0a18577dbbab0357c614d3e6f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/黑缨枪.png",
+    "hash": "f5ff640290ca727c53acf64a240e25aa",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/鸦羽弓.png",
+    "hash": "87090e8946e3acf9b64f7d52e2ba142c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/天空之脊.png",
+    "hash": "e0fa88fbbcb9faa16b994cfb0a41b29f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/猎人之径.png",
+    "hash": "2e74d425f7775094f55fa2190f47f6b7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/风鹰剑.png",
+    "hash": "33d348bc2a7912630220d544cce24ae4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/赤角石溃杵.png",
+    "hash": "343521336e4a535daee2982752385c1a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/以理服人.png",
+    "hash": "0ef0afac22ccff179d1455d1cbba27af",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/西风剑.png",
+    "hash": "f12cf05ade27207325fd9f0e13de0a56",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/钟剑.png",
+    "hash": "2c4f11aaba5c46fa336160dc72272dbb",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/祭礼剑.png",
+    "hash": "443858bf7950668be41d758eb285208e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/磐岩结绿.png",
+    "hash": "4b16a8c36922e4dd6c3fbbf5968dc19d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/沐浴龙血的剑.png",
+    "hash": "4de95be2197b3eb8de5ada9be57d6de8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/苍古自由之誓.png",
+    "hash": "6aab5386b5deb14858868cdf8ac38580",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/斫峰之刃.png",
+    "hash": "c85e4a37f277f828e60a520d6adf7150",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/暗巷猎手.png",
+    "hash": "2c2faf6737d9563715bb0066a5813081",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/护摩之杖.png",
+    "hash": "0e0f26c509f97cd8b6399c5e832175b5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/流浪的晚星.png",
+    "hash": "bf09ed26f0ca6ff7d5d1d961181003e6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/暗巷闪光.png",
+    "hash": "e5839de4d5bd3e4c804f04c72ebce75f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/西风长枪.png",
+    "hash": "55c41991e7ca422b6c422431d41e99ae",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/断浪长鳍.png",
+    "hash": "614a9a9d96b1f06f93339666a12abd82",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/天空之卷.png",
+    "hash": "9209a4c662a2886f444865f93e87374b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/狼的末路.png",
+    "hash": "d002e5317c5f7258bdf33b4478db5636",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/四风原典.png",
+    "hash": "24c7fd1a611fc7e2244c0cb17ac33660",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/翡玉法球.png",
+    "hash": "0ad9ca6d5e5e4041a22a83054af4f756",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/冬极白星.png",
+    "hash": "244b62c0ff315a04de2c337c45e47830",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/弹弓.png",
+    "hash": "b68d38b791bdef90de474f036f8aae09",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/circle.png",
+    "hash": "2289f031e3d3617eb7975f2ad98197c5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/bg.png",
+    "hash": "a24ed4ee19507d279f3f4620ead0251e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/line.png",
+    "hash": "90b6859f9ef81ad2e49704f5e76993ee",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/原石.png",
+    "hash": "9e098004d762475c95cbb0b3316ab7b5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/box.png",
+    "hash": "9cd49d13d62b4fffecf04ba3c9aa207e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/摩拉.png",
+    "hash": "bd648d8ec54f17cb1d03165ad0540bff",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/芭芭拉-嘘.png",
+    "hash": "f5781fa102716e1614db89f31818137f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/空-睡着了.png",
+    "hash": "8ad81ccf62c9d5841528a2ba8b2541fa",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/雷电将军-威胁.png",
+    "hash": "969375d56ef33e91347185200bc59aa9",
     "lock": true
   },
   {
@@ -1345,163 +1365,53 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/琴-生气.png",
-    "hash": "c3e373608211a20a3d10ba510d287b28",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/优菈-邀请.png",
-    "hash": "239630716db807fcca37f315b6452727",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/香菱-星星眼.png",
-    "hash": "b62db971938bd3d304add91a5d4cfa11",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/派蒙-哼哼.png",
-    "hash": "05333e8b8f02c043f32900148e68026c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/罗莎莉亚-嫌弃.png",
-    "hash": "f3c313dfde7aaa1be64d9d1ec14a5771",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/诺艾尔-叼薯条.png",
-    "hash": "b28493cf046ce5a01e3da5b03a553d37",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/刻晴-晚安.png",
-    "hash": "5008a86cff59f7e14b2521a6c0c05fa8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/钟离-天动万象.png",
-    "hash": "26cc57584465961a53a0894e495824bc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/九条裟罗-开心.png",
-    "hash": "e0d5286adf6a884a97d97003cb8b446c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/砂糖-纪录.png",
-    "hash": "e471fb99c3c226f298594d3986f81e6b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/莫娜-好饿.png",
-    "hash": "c07e174739cd3c90cf762d1943b985f2",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/凯亚-你真幽默.png",
-    "hash": "4334dbd51cae6b6f23b251cdbfcacf49",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/甘雨-懊恼.png",
-    "hash": "4e7959a487bb6847aae18f1c1a044424",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/辛焱-勉强.png",
-    "hash": "670bdeefbca53f0c79b1b1ad82aa83a8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/荒泷一斗-挑衅.png",
-    "hash": "a8fd2e2be65c33631576f769f6e9c149",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/迪奥娜-超凶.png",
-    "hash": "02a87d322a4cadf619c09415cbf41390",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/胡桃-变戏法.png",
-    "hash": "898782f1de07deea53966f46e7fb4f4b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/七七-品尝.png",
-    "hash": "c5b740be3ae6cc9d86904665b8ba39de",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/安柏-给我走开.png",
-    "hash": "56d75376ac6a26eb453f98da7e770648",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/魈-皱眉.png",
-    "hash": "e0d55c69023cd509039100230f9e46bd",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/温迪-有主意了.png",
-    "hash": "efee7c39ab124db73f9d537da6bbb15b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/神里绫华-喝茶.png",
-    "hash": "d4a3cca2fe01b4b53afae723340f3d8f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/荧-拜托.png",
-    "hash": "954a920a01f08bea4d22353af3017a26",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/emoticons/阿贝多-交给我.png",
-    "hash": "332bf35dd534e6fabbfa4a7eb0eaa89c",
-    "lock": true
-  },
-  {
     "path": "LittlePaimon/emoticons/早柚-生气.png",
     "hash": "e7db79d4f28d907fff83350c305c7039",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/达达利亚-可恶.png",
-    "hash": "2f65128b83960f1605cf3c2a6effd36d",
+    "path": "LittlePaimon/emoticons/魈-吃.png",
+    "hash": "0bdad4888245fb0c301caa9afa4e894c",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/菲谢尔-傲娇.png",
-    "hash": "efc6a6db462bc4693fd0f51e208dc71a",
+    "path": "LittlePaimon/emoticons/派蒙-出货吧.png",
+    "hash": "721e1099752cc10b4ea924b3183b9ee9",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/五郎-呲牙.png",
-    "hash": "cf1152387c8bf25d2ed61673c0e6874b",
+    "path": "LittlePaimon/emoticons/香菱-新菜谱.png",
+    "hash": "f7de3790d4ceae42c0b08b02f908f463",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/枫原万叶-嗨.png",
-    "hash": "94b55a6699b2b8784f9197acf91caf09",
+    "path": "LittlePaimon/emoticons/辛焱-气死了.png",
+    "hash": "eb80683c121e00d14e31aa2adfbf81f8",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/芭芭拉-害羞.png",
-    "hash": "7f6fc6d00c93b1a2ed3ab311aa0817f9",
+    "path": "LittlePaimon/emoticons/钟离-摊手.png",
+    "hash": "f8c9a47a2eeb27723dbc75d98d39b963",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/若陀龙王-迷茫.png",
-    "hash": "64d2a98be82d7ea5af0e43ce51a6ad57",
+    "path": "LittlePaimon/emoticons/阿贝多-坏笑.png",
+    "hash": "753ad8fe83860b33355543831d208b67",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/珊瑚宫心海-悠闲.png",
-    "hash": "5086214866aa7db4b4207dae8a3b4558",
+    "path": "LittlePaimon/emoticons/迪卢克-撒盐.png",
+    "hash": "f1e68401e4dacb4a68d15533b29d3cb3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/荒泷一斗-大笑.png",
+    "hash": "fca9c7d81d665ae2d1393cc112238105",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/胡桃-搞砸了.png",
+    "hash": "6d8d49c44616a3e879ed7d9a7ca9d075",
     "lock": true
   },
   {
@@ -1510,28 +1420,78 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/宵宫-喂.png",
-    "hash": "6f027d91ee9922e0231eed61878a8b46",
+    "path": "LittlePaimon/emoticons/温迪-期待.png",
+    "hash": "9e50b621f72c9d9b6db41e77d32391ce",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/北斗-拜拜.png",
-    "hash": "613acf7cbd4f1401b646f6ad04170439",
+    "path": "LittlePaimon/emoticons/甘雨-懊恼.png",
+    "hash": "4e7959a487bb6847aae18f1c1a044424",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/迪卢克-谢谢惠顾.png",
-    "hash": "738dcba893c54630621b7b5d6a345d82",
+    "path": "LittlePaimon/emoticons/琴-唔.png",
+    "hash": "d7c41561a7117b48b949839fb469463a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/空-警觉.png",
-    "hash": "2c7b25d336ff0062d5609dd3f0f66b7e",
+    "path": "LittlePaimon/emoticons/达达利亚-美妙.png",
+    "hash": "3a1ea2fffe2eb568f05452280eaac36a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/emoticons/托马-害怕.png",
-    "hash": "c2cb2b650aad64059e13b321985aed07",
+    "path": "LittlePaimon/emoticons/神里绫华-行礼.png",
+    "hash": "3140b4bc3041a2c79e1836f23adfcf6e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/托马-举高高.png",
+    "hash": "8c594303efab5c47eb64e8aedf8922f8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/安柏-不要啊.png",
+    "hash": "ecb9e594f80b9bf614ed80cd0654de60",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/荧-请投币.png",
+    "hash": "7012c18a11c3c93491dcf6e57caf34e5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/诺艾尔-送餐.png",
+    "hash": "9d72e59eccab4504126774d6e616e314",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/菲谢尔-傲娇.png",
+    "hash": "efc6a6db462bc4693fd0f51e208dc71a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/莫娜-是摩拉.png",
+    "hash": "8b512796f7088b78282526587465171e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/刻晴-我拒绝.png",
+    "hash": "be55ed83131f4d899ff7b87b5e514c8e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/优菈-赞扬.png",
+    "hash": "614611950cada1d9cc271efb1b7944a5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/五郎-痛哭.png",
+    "hash": "b0e2f4f3d1ba5b068346f9b17e557452",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/迪奥娜-超凶.png",
+    "hash": "02a87d322a4cadf619c09415cbf41390",
     "lock": true
   },
   {
@@ -1540,8 +1500,38 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/emoticons/若陀龙王-迷茫.png",
+    "hash": "64d2a98be82d7ea5af0e43ce51a6ad57",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/emoticons/丽莎-干得漂亮.png",
     "hash": "443153ba48772d9349cf81ed08f02a54",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/枫原万叶-吃惊.png",
+    "hash": "e3ae63118c4863eb97335854731ab21e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/七七-哦.png",
+    "hash": "0ec6b60b600723cd78018ad9279eebdf",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/珊瑚宫心海-祈祷.png",
+    "hash": "fd0cfccafae19a85abdfc0df3818d760",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/砂糖-加油.png",
+    "hash": "c6b3381d20464c897153e94e08dd65e3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/emoticons/宵宫-喂.png",
+    "hash": "6f027d91ee9922e0231eed61878a8b46",
     "lock": true
   },
   {
@@ -1550,168 +1540,28 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/star4.png",
-    "hash": "73bf3da5c359294515eea97b2666080e",
+    "path": "LittlePaimon/emoticons/九条裟罗-开心.png",
+    "hash": "e0d5286adf6a884a97d97003cb8b446c",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/精炼3.png",
-    "hash": "ab57d69ba4cc5d6beed36e0bccded400",
+    "path": "LittlePaimon/emoticons/罗莎莉亚-下班.png",
+    "hash": "112edd61d4c9bbcff93976b45374a37a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/命之座5.png",
-    "hash": "74b0e3fbb512f3280d26536bb3fc97e4",
+    "path": "LittlePaimon/emoticons/北斗-拜拜.png",
+    "hash": "613acf7cbd4f1401b646f6ad04170439",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/rankB.png",
-    "hash": "86c16bc19dc61cba29574781f04ce4be",
+    "path": "LittlePaimon/emoticons/凯亚-你真幽默.png",
+    "hash": "4334dbd51cae6b6f23b251cdbfcacf49",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/岩.png",
-    "hash": "3bd4c6605107bef4f0cf04e5a41c01c0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star5.png",
-    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座1.png",
-    "hash": "afb06d9b9b43a9f5d7ef53a3ef308d7a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座4.png",
-    "hash": "5ffece8e7abf1e34976e14de0a1183af",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/草.png",
-    "hash": "51c7a903b4d244c255590a9e9dec4d7f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/4starbox.png",
-    "hash": "54546f412c344ad23d550cf0947dfeb1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座6.png",
-    "hash": "96add3892b541bed14d150ac7c792705",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/5starbox.png",
-    "hash": "cf1cc08ba91e928a774c567bc01930ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座2.png",
-    "hash": "89433b443ebc374f9798bc3103a64fdd",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_6.png",
-    "hash": "656ba20a15a070de22ffa27f05580ea7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star3.png",
-    "hash": "b488ed36862e26e2fba233e5eacf95a1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度8.png",
-    "hash": "cfd97993735b2a909ff1c20d19c034d9",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star4_no_line.png",
-    "hash": "f5618be4cbb62b3a1a8eafcb77da237a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度5.png",
-    "hash": "9c55752bf758aedf5cbcddc219a8d16f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_4.png",
-    "hash": "7c75360e1b6116f88fc7799ca6dba600",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/水.png",
-    "hash": "db837bdbc89591f37a171298df53b71a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star1.png",
-    "hash": "de91f72fa4873eac769cba5999550b48",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_1.png",
-    "hash": "549bf329c0e61747cb296113e9841cb1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度7.png",
-    "hash": "8cd9afd6f4471304442bc0838557607a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/success.png",
-    "hash": "4c0fd67be547323c541e7f204bb5e019",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankS.png",
-    "hash": "b4e6789e89761f80e842148ccb37e797",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度3.png",
-    "hash": "9e52d5952c7988d6701c7c11982be859",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/火.png",
-    "hash": "ae9e4ecb8e8d88ac9ce7a8f2a8614fc7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_0.png",
-    "hash": "8c02a2b4f1a11b156f7e6f2bc739f13b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座3.png",
-    "hash": "984ddd3caf01c0bb4e551fd4f034f9e1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankA.png",
-    "hash": "b2eb358748d733bd4ca7fd23716aabf0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度9.png",
-    "hash": "dc7c427685a1c411eaec9bdce8d3c08d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star2.png",
-    "hash": "571e5bc9839ade8e7be416774cf62b7e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankSSS.png",
-    "hash": "7fa86e8c3d2a427b390488d6a1bede01",
+    "path": "LittlePaimon/icon/rankC.png",
+    "hash": "0d4bbc9917ab6eb15f3352ce6e44b0ee",
     "lock": true
   },
   {
@@ -1720,18 +1570,73 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/icon/好感度7.png",
+    "hash": "8cd9afd6f4471304442bc0838557607a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star5_no_line.png",
+    "hash": "d7cde6daa494b992a7485022b146d4ea",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/水.png",
+    "hash": "db837bdbc89591f37a171298df53b71a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼4.png",
+    "hash": "9e22d2e2648dbacca0a12628f33b28ef",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star2.png",
+    "hash": "571e5bc9839ade8e7be416774cf62b7e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼3.png",
+    "hash": "ab57d69ba4cc5d6beed36e0bccded400",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼5.png",
+    "hash": "e8018bee4760b9c0ad382129aa342d16",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度9.png",
+    "hash": "dc7c427685a1c411eaec9bdce8d3c08d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_4.png",
+    "hash": "7c75360e1b6116f88fc7799ca6dba600",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/icon/好感度1.png",
     "hash": "b0f0f34fc86a138b9674d0ef89bc1a4a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/好感度10.png",
-    "hash": "551ee60355190ce57aa10096e129e747",
+    "path": "LittlePaimon/icon/rankB.png",
+    "hash": "86c16bc19dc61cba29574781f04ce4be",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/fail.png",
-    "hash": "c0551c452d1c4d84a37c14bc4467c5c0",
+    "path": "LittlePaimon/icon/grey_box.png",
+    "hash": "d527cc28ef26057a4d5cdba9007a4dd6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/火.png",
+    "hash": "ae9e4ecb8e8d88ac9ce7a8f2a8614fc7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度0.png",
+    "hash": "3a5ef11575a5232941347b2461cf28f5",
     "lock": true
   },
   {
@@ -1740,8 +1645,133 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/精炼4.png",
-    "hash": "9e22d2e2648dbacca0a12628f33b28ef",
+    "path": "LittlePaimon/icon/fail.png",
+    "hash": "c0551c452d1c4d84a37c14bc4467c5c0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_2.png",
+    "hash": "3d610bb52c6ff1b63e1ebb4103a1c31a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度3.png",
+    "hash": "9e52d5952c7988d6701c7c11982be859",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankS.png",
+    "hash": "b4e6789e89761f80e842148ccb37e797",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankSS.png",
+    "hash": "fd675bab836ded3821336bc2b377de5c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star4.png",
+    "hash": "73bf3da5c359294515eea97b2666080e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/雷.png",
+    "hash": "cd459f76e543f140e462e10f64304aa7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼2.png",
+    "hash": "9e98a7d782efd81819d39a6cf36196ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankA.png",
+    "hash": "b2eb358748d733bd4ca7fd23716aabf0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/5starbox.png",
+    "hash": "cf1cc08ba91e928a774c567bc01930ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度6.png",
+    "hash": "bde621e0ad2e3b761075c24819d048ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_3.png",
+    "hash": "c7d73bbbcb9d86fad204c7f235c226b8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star5.png",
+    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_1.png",
+    "hash": "549bf329c0e61747cb296113e9841cb1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/success.png",
+    "hash": "4c0fd67be547323c541e7f204bb5e019",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star4_no_line.png",
+    "hash": "f5618be4cbb62b3a1a8eafcb77da237a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座3.png",
+    "hash": "984ddd3caf01c0bb4e551fd4f034f9e1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度8.png",
+    "hash": "cfd97993735b2a909ff1c20d19c034d9",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座2.png",
+    "hash": "89433b443ebc374f9798bc3103a64fdd",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star3.png",
+    "hash": "b488ed36862e26e2fba233e5eacf95a1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/冰.png",
+    "hash": "c4b32072bbe44dd44afc102d0c486baa",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度5.png",
+    "hash": "9c55752bf758aedf5cbcddc219a8d16f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/4starbox.png",
+    "hash": "54546f412c344ad23d550cf0947dfeb1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_0.png",
+    "hash": "8c02a2b4f1a11b156f7e6f2bc739f13b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座5.png",
+    "hash": "74b0e3fbb512f3280d26536bb3fc97e4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/风.png",
+    "hash": "4269c00b5f3e91dc0dcfff948d4b1631",
     "lock": true
   },
   {
@@ -1755,33 +1785,28 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/level_hywh_3.png",
-    "hash": "c7d73bbbcb9d86fad204c7f235c226b8",
+    "path": "LittlePaimon/icon/草.png",
+    "hash": "51c7a903b4d244c255590a9e9dec4d7f",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/rankC.png",
-    "hash": "0d4bbc9917ab6eb15f3352ce6e44b0ee",
+    "path": "LittlePaimon/icon/rankSSS.png",
+    "hash": "7fa86e8c3d2a427b390488d6a1bede01",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/好感度0.png",
-    "hash": "3a5ef11575a5232941347b2461cf28f5",
+    "path": "LittlePaimon/icon/命之座4.png",
+    "hash": "5ffece8e7abf1e34976e14de0a1183af",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/冰.png",
-    "hash": "c4b32072bbe44dd44afc102d0c486baa",
+    "path": "LittlePaimon/icon/命之座6.png",
+    "hash": "96add3892b541bed14d150ac7c792705",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/精炼2.png",
-    "hash": "9e98a7d782efd81819d39a6cf36196ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/grey_box.png",
-    "hash": "d527cc28ef26057a4d5cdba9007a4dd6",
+    "path": "LittlePaimon/icon/好感度10.png",
+    "hash": "551ee60355190ce57aa10096e129e747",
     "lock": true
   },
   {
@@ -1790,93 +1815,33 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/star5_no_line.png",
-    "hash": "d7cde6daa494b992a7485022b146d4ea",
+    "path": "LittlePaimon/icon/star1.png",
+    "hash": "de91f72fa4873eac769cba5999550b48",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/风.png",
-    "hash": "4269c00b5f3e91dc0dcfff948d4b1631",
+    "path": "LittlePaimon/icon/命之座1.png",
+    "hash": "afb06d9b9b43a9f5d7ef53a3ef308d7a",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/精炼5.png",
-    "hash": "e8018bee4760b9c0ad382129aa342d16",
+    "path": "LittlePaimon/icon/level_hywh_6.png",
+    "hash": "656ba20a15a070de22ffa27f05580ea7",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/rankSS.png",
-    "hash": "fd675bab836ded3821336bc2b377de5c",
+    "path": "LittlePaimon/icon/岩.png",
+    "hash": "3bd4c6605107bef4f0cf04e5a41c01c0",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/好感度6.png",
-    "hash": "bde621e0ad2e3b761075c24819d048ba",
+    "path": "LittlePaimon/artifact/不知名毛.png",
+    "hash": "96c9315b11242f01bacc8f9f5189828f",
     "lock": true
   },
   {
-    "path": "LittlePaimon/icon/雷.png",
-    "hash": "cd459f76e543f140e462e10f64304aa7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_2.png",
-    "hash": "3d610bb52c6ff1b63e1ebb4103a1c31a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/洞天宝钱.png",
-    "hash": "f2c6da2d4666e22ffc28bb367b9196b6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/finished.png",
-    "hash": "e0947177a56b3390aa16f005c9e7f953",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/派遣完成.png",
-    "hash": "78e2bdc76ef5ab26b23f055a2029e757",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/便签背景1.png",
-    "hash": "b99c3f1da30bc8d17a6d16279ebe24ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/便签背景2.png",
-    "hash": "435f220e613bd2e0777de5fe852c93cf",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/委托.png",
-    "hash": "8c6c8c3e0fc24eaeadea50acb4c6c44d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/深渊.png",
-    "hash": "2d46de0e17b0350f0ffd6f4544361f9b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/便签背景3.png",
-    "hash": "522bb9262060dcb57d3a21ac5b99bac5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/派遣.png",
-    "hash": "8d9f51e9bf4d9ac4b906c0b217036e90",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/派遣背景.png",
-    "hash": "49d48147a608be9c98d3f9bd74b43524",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/daily_note/树脂.png",
-    "hash": "39497696dd3309d69f90122f42f8ddc1",
+    "path": "LittlePaimon/artifact/不知名花.png",
+    "hash": "0606bf022a3ffcbc838c61e97da93c35",
     "lock": true
   },
   {
@@ -1885,13 +1850,43 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/daily_note/委托.png",
+    "hash": "8c6c8c3e0fc24eaeadea50acb4c6c44d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/daily_note/洞天宝钱.png",
+    "hash": "f2c6da2d4666e22ffc28bb367b9196b6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/daily_note/便签背景1.png",
+    "hash": "b99c3f1da30bc8d17a6d16279ebe24ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/daily_note/派遣.png",
+    "hash": "8d9f51e9bf4d9ac4b906c0b217036e90",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/daily_note/周本.png",
     "hash": "033fdcc8373469dd4653fbc99c2a0b46",
     "lock": true
   },
   {
+    "path": "LittlePaimon/daily_note/派遣背景.png",
+    "hash": "49d48147a608be9c98d3f9bd74b43524",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/daily_note/ssbq.png",
     "hash": "db24ded36d754b3db752941adfde50b4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/daily_note/便签背景2.png",
+    "hash": "435f220e613bd2e0777de5fe852c93cf",
     "lock": true
   },
   {
@@ -1905,23 +1900,28 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/player_card/chara_4star.png",
-    "hash": "2874b2ffca8fdd3a36ba012087b646fc",
+    "path": "LittlePaimon/daily_note/深渊.png",
+    "hash": "2d46de0e17b0350f0ffd6f4544361f9b",
     "lock": true
   },
   {
-    "path": "LittlePaimon/player_card/white_bg.png",
-    "hash": "7bf5486bcfb57868f1b3814838feb537",
+    "path": "LittlePaimon/daily_note/finished.png",
+    "hash": "e0947177a56b3390aa16f005c9e7f953",
     "lock": true
   },
   {
-    "path": "LittlePaimon/player_card/chara_5star.png",
-    "hash": "bbf0656619f90cafeaaa1d7a5fb6a085",
+    "path": "LittlePaimon/daily_note/派遣完成.png",
+    "hash": "78e2bdc76ef5ab26b23f055a2029e757",
     "lock": true
   },
   {
-    "path": "LittlePaimon/player_card/bg.png",
-    "hash": "d98596cfa77b070bdc5b0b9ee5b8be3a",
+    "path": "LittlePaimon/daily_note/便签背景3.png",
+    "hash": "522bb9262060dcb57d3a21ac5b99bac5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/daily_note/树脂.png",
+    "hash": "39497696dd3309d69f90122f42f8ddc1",
     "lock": true
   }
 ]
