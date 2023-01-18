@@ -531,7 +531,7 @@
   },
   {
     "path": "LittlePaimon/gacha_res/type.json",
-    "hash": "2161fab7d95c33a5ff4f7e887f157e7d",
+    "hash": "492a69ce94ec68909e99f41d20eef230",
     "lock": true
   },
   {
@@ -572,6 +572,11 @@
   {
     "path": "LittlePaimon/gacha_res/角色/珊瑚宫心海.png",
     "hash": "c416b81548f1604fe642c977f62e61f1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/瑶瑶.png",
+    "hash": "8fb764436dd47503f965466bcd5494cf",
     "lock": true
   },
   {
@@ -712,6 +717,11 @@
   {
     "path": "LittlePaimon/gacha_res/角色/流浪者.png",
     "hash": "7e336fec23dafe2500bc28e90f3b0c1c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/角色/艾尔海森.png",
+    "hash": "31b52a1e715610a06a9e79ce7064106d",
     "lock": true
   },
   {
@@ -1217,6 +1227,11 @@
   {
     "path": "LittlePaimon/gacha_res/武器/以理服人.png",
     "hash": "0ef0afac22ccff179d1455d1cbba27af",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/gacha_res/武器/裁叶萃光.png",
+    "hash": "ba3d531cec9d99fe6580f53e242a63c7",
     "lock": true
   },
   {
