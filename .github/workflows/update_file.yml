@@ -1,11 +1,13 @@
 name: Update Files
 
 on:
-    push:
-      branches: [ main ]
-      paths:
-        - 'fonts/**'
-        - 'LittlePaimon/**'
+  push:
+    branches: [ main ]
+    paths:
+      - 'fonts/**'
+      - 'LittlePaimon/**'
+
+  workflow_dispatch:
 
 jobs:
   update:
@@ -30,7 +32,7 @@ jobs:
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: ':wrench: 自动更新资料列表'
+          message: ':wrench: 自动更新资源列表'
           add: |
             'resources_list.json'
             'resources.zip'

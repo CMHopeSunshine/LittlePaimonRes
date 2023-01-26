@@ -1,10 +1,12 @@
 name: Update Images
 
 on:
-    push:
-      branches: [ main ]
-      paths:
-        - 'genshin_img/**'
+  push:
+    branches: [ main ]
+    paths:
+      - 'genshin_img/**'
+
+  workflow_dispatch:
 
 jobs:
   update:
