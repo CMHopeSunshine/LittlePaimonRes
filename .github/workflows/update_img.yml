@@ -1,0 +1,34 @@
+name: Update Images
+
+on:
+    push:
+      branches: [ main ]
+      paths:
+        - 'genshin_img/**'
+
+jobs:
+  update:
+    name: Update Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@master
+
+      - name: Setup python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+
+      - name: Update files
+        run: |
+          python generate_img_list.py
+
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: ':wrench: 自动更新图库列表'
+          add: |
+            'genshin_img_list.json'

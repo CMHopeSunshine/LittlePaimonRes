@@ -6,7 +6,6 @@ on:
       paths:
         - 'fonts/**'
         - 'LittlePaimon/**'
-        - 'genshin_img/**'
 
 jobs:
   update:
@@ -23,7 +22,7 @@ jobs:
 
       - name: Update files
         run: |
-          python generate_file_list.py
+          python generate_res_list.py
 
 
       - name: Commit changes
@@ -31,7 +30,7 @@ jobs:
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: ':wrench: 自动更新文件列表'
+          message: ':wrench: 自动更新资料列表'
           add: |
             'resources_list.json'
-            'genshin_img_list.json'
+            'resources.zip'
