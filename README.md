@@ -1,10 +1,10 @@
 <p align="center" >
-  <a href="https://github.com/CMHopeSunshine/LittlePaimon/tree/nonebot2"><img src="https://s1.ax1x.com/2023/02/05/pS62DJK.png" width="256" height="256" alt="LittlePaimon"></a>
+  <a href="https://github.com/CMHopeSunshine/LittlePaimon"><img src="https://s1.ax1x.com/2023/02/05/pS62DJK.png" width="256" height="256" alt="LittlePaimon"></a>
 </p>
 <h1 align="center">小派蒙资源库</h1>
 
 ## | 简介
-本仓库为原神Bot[小派蒙](https://github.com/CMHopeSunshine/LittlePaimon/tree/nonebot2)的资源库以及原神角色图库。
+本仓库为原神Bot[小派蒙](https://github.com/CMHopeSunshine/LittlePaimon)的资源库以及原神角色图库。
 
 ## | 文件结构
 `LittlePaimon`和`fonts`文件夹为小派蒙所必需的资源文件，会在小派蒙启动时自动下载到**小派蒙目录**下的`resources`文件夹。
@@ -22,7 +22,7 @@
 
 
 ## | 其他相关链接
-- 原神Bot小派蒙：[LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon/tree/nonebot2)
+- 原神Bot小派蒙：[LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon)
 - 小派蒙文档：[LittlePaimon-Docs](https://docs.paimon.cherishmoon.fun/)
 - 原神图鉴制作：[GenshinWikiMap](https://github.com/CMHopeSunshine/GenshinWikiMap)
 - 原神游戏图鉴：[Genshin-Atlas](https://github.com/Nwflower/genshin-atlas)
