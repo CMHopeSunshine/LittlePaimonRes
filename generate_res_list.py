@@ -53,7 +53,8 @@ resources_zip = zipfile.ZipFile(resources_zip_path, 'w', zipfile.ZIP_DEFLATED)
 for file in Path('fonts').iterdir():
     resources_zip.write(file)
 for file in Path('LittlePaimon').rglob('*'):
-    if file.name not in exclude_path and file.parent.name not in exclude_path:
+    exclude_path_ = exclude_path + ["character_portrait"]
+    if file.name not in exclude_path_ and file.parent.name not in exclude_path_:
         resources_zip.write(file)
 
 resources_zip.close()
