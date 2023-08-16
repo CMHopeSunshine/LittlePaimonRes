@@ -430,11 +430,6 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/enka_card/丹枫.png",
-    "hash": "ed72c1406d89f36fe1dcfd916c4219f6",
-    "lock": true
-  },
-  {
     "path": "LittlePaimon/enka_card/至冬.png",
     "hash": "9759430346e2e4746b868788907065dc",
     "lock": true
@@ -457,6 +452,11 @@
   {
     "path": "LittlePaimon/enka_card/评分C.png",
     "hash": "d31a0857199fc8467e844d1f4e129f58",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/enka_card/枫丹.png",
+    "hash": "ed72c1406d89f36fe1dcfd916c4219f6",
     "lock": true
   },
   {
