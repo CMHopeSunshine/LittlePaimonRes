@@ -1,4 +1,4 @@
-name: Update Files
+name: Update Star Rail Resources
 
 on:
   workflow_dispatch:
