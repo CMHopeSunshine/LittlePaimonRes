@@ -1,6 +1,6 @@
 import asyncio
 import os
-import zipfile
+# import zipfile
 from pathlib import Path
 
 import httpx
@@ -20,7 +20,7 @@ token = os.environ["GITHUB_TOKEN"]
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "Accept": "application/vnd.github.v3+json",
-    "Authorization": f"token {token}",
+    "Authorization": f"Bearer {token}",
 }
 
 
@@ -88,8 +88,8 @@ async def limited_download(client, url, semaphore, pbar):
 
 if __name__ == "__main__":
     asyncio.run(download_res())
-    path = this_path + "/star_rail.zip"
-    with zipfile.ZipFile(path, "w") as zf:
-        for file in star_rail_res_path.rglob("*"):
-            zf.write(file, file.relative_to(star_rail_res_path))
+    # path = this_path + "/star_rail.zip"
+    # with zipfile.ZipFile(path, "w") as zf:
+    #     for file in star_rail_res_path.rglob("*"):
+    #         zf.write(file, file.relative_to(star_rail_res_path))
     print("StarRailRes updated.")
