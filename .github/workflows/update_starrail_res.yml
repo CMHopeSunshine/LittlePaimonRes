@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python update_star_rail_res.py
+          python update_starrail_res.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
