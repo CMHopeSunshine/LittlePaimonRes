@@ -2,6 +2,8 @@ name: Update Star Rail Resources
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   update:
@@ -21,11 +23,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install httpx pydantic tqdm
 
-      - name: Update files
+      - name: Update Star Rail Resources
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_starrail_res.py
+      
+      - name: Update Files
+        run: |
+            python generate_res_list.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
