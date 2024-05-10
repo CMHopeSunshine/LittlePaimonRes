@@ -2065,6 +2065,11 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/star_rail/skill/8006_rank1.png",
+    "hash": "bd6ea5e00922b6f90dc023007cb881ff",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/star_rail/skill/1111_rank6.png",
     "hash": "5f2137c7468c9ad4a047d1ff528d2ecc",
     "lock": true
@@ -3050,6 +3055,11 @@
     "lock": true
   },
   {
+    "path": "LittlePaimon/star_rail/skill/8006_rank6.png",
+    "hash": "3411e6ac3de9180d1b16d9d8990b142f",
+    "lock": true
+  },
+  {
     "path": "LittlePaimon/star_rail/skill/1201_talent.png",
     "hash": "de226bd2a2acfcd41090936177b21473",
     "lock": true
@@ -3522,6 +3532,11 @@
   {
     "path": "LittlePaimon/star_rail/skill/1301_skill.png",
     "hash": "b2205186095ed5422a9e988b51b9551e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/skill/8006_rank2.png",
+    "hash": "4970644cd1604c0068ad1e09d743b7df",
     "lock": true
   },
   {
@@ -4161,7 +4176,7 @@
   },
   {
     "path": "LittlePaimon/star_rail/skill/8006_ultimate1.png",
-    "hash": "fd0ed6aa4e17f8c839c3278750e4732d",
+    "hash": "2f6811cb61c7b42005752821a2360701",
     "lock": true
   },
   {
@@ -4537,6 +4552,11 @@
   {
     "path": "LittlePaimon/star_rail/skill/1306_ultimate.png",
     "hash": "0b8ffcae7fb8424239b0c0d4334da51e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/skill/8006_rank4.png",
+    "hash": "296ac7f8b968f3ab911bb76a9049700c",
     "lock": true
   },
   {
@@ -5072,6 +5092,11 @@
   {
     "path": "LittlePaimon/star_rail/character_portrait/1208.png",
     "hash": "61e3db8bee5c399c5ec6727fb2a6de9a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/character_portrait/8006.png",
+    "hash": "1c53726764a99aeffc16bbd9de4ce0c2",
     "lock": true
   },
   {
