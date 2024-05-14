@@ -2,8 +2,6 @@ name: Update Star Rail Resources
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
 
 jobs:
   update:
@@ -31,7 +29,7 @@ jobs:
       
       - name: Update Files
         run: |
-            python generate_res_list.py
+          python generate_res_list.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
