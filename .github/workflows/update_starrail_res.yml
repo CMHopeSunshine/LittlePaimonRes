@@ -27,6 +27,10 @@ jobs:
         run: |
           python update_starrail_res.py
 
+      - name: Update Files
+        run: |
+          python generate_res_list.py
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
