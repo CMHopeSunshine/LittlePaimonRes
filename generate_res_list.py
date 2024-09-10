@@ -46,15 +46,15 @@ img_list = {chara.name: [img.name for img in chara.iterdir()] for chara in img_p
 with open('genshin_img_list.json', 'w', encoding='utf-8') as f:
     json.dump(img_list, f, ensure_ascii=False, indent=2)
 
+# 暂时关闭zip打包，等待解决lfs超出大小问题后恢复
+# resources_zip_path = Path() / 'resources.zip'
+# resources_zip = zipfile.ZipFile(resources_zip_path, 'w', zipfile.ZIP_DEFLATED)
 
-resources_zip_path = Path() / 'resources.zip'
-resources_zip = zipfile.ZipFile(resources_zip_path, 'w', zipfile.ZIP_DEFLATED)
+# for file in Path('fonts').iterdir():
+#     resources_zip.write(file)
+# for file in Path('LittlePaimon').rglob('*'):
+#     exclude_path_ = exclude_path + ["character_portrait"]
+#     if file.name not in exclude_path_ and file.parent.name not in exclude_path_:
+#         resources_zip.write(file)
 
-for file in Path('fonts').iterdir():
-    resources_zip.write(file)
-for file in Path('LittlePaimon').rglob('*'):
-    exclude_path_ = exclude_path + ["character_portrait"]
-    if file.name not in exclude_path_ and file.parent.name not in exclude_path_:
-        resources_zip.write(file)
-
-resources_zip.close()
+# resources_zip.close()
