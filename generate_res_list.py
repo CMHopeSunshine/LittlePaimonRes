@@ -3,58 +3,72 @@ import json
 import zipfile
 from pathlib import Path
 
-font_path = Path(__file__).parent / 'fonts'
-res_path = Path(__file__).parent / 'LittlePaimon'
-img_path = Path(__file__).parent / 'genshin_img'
+font_path = Path(__file__).parent / "fonts"
+res_path = Path(__file__).parent / "LittlePaimon"
+img_path = Path(__file__).parent / "genshin_img"
 
-exclude_path = ['avatar', 'avatar_side', 'talent', 'weapon', 'splash', 'results', 'material', 'other', 'furniture']
-unlock_list = ['general']
+exclude_path = [
+    "avatar",
+    "avatar_side",
+    "talent",
+    "weapon",
+    "splash",
+    "results",
+    "material",
+    "other",
+    "furniture",
+]
+unlock_list = ["general"]
 
 emoticons_temp = []
 
-file_list = [{
-    'path': f'{file.parent.name}/{file.name}',
-    'hash': hashlib.md5(file.read_bytes()).hexdigest(),
-    'lock': True
-} for file in font_path.iterdir()]
+file_list = [
+    {
+        "path": f"{file.parent.name}/{file.name}",
+        "hash": hashlib.md5(file.read_bytes()).hexdigest(),
+        "lock": True,
+    }
+    for file in font_path.iterdir()
+]
 
 this_path = str(Path().absolute())
 
-for file in res_path.rglob('*'):
+for file in res_path.rglob("*"):
     if not file.is_file():
         continue
     if file.parent.name not in exclude_path:
-        if file.parent.name.startswith('emoticons'):
-            if file.name.split('-')[0] in emoticons_temp:
+        if file.parent.name.startswith("emoticons"):
+            if file.name.split("-")[0] in emoticons_temp:
                 continue
             else:
-                emoticons_temp.append(file.name.split('-')[0])
-        if file.parent.name.startswith('artifact') and file.name.startswith('UI'):
+                emoticons_temp.append(file.name.split("-")[0])
+        if file.parent.name.startswith("artifact") and file.name.startswith("UI"):
             continue
         file_list.append({
-            'path': str(file).replace(this_path, '').replace('\\', '/').lstrip('/'),
-            'hash': hashlib.md5(file.read_bytes()).hexdigest(),
-            'lock': False if file.parent.name in unlock_list else True
+            "path": str(file).replace(this_path, "").replace("\\", "/").lstrip("/"),
+            "hash": hashlib.md5(file.read_bytes()).hexdigest(),
+            "lock": False if file.parent.name in unlock_list else True,
         })
 
-with open('resources_list.json', 'w', encoding='utf-8') as f:
+with open("resources_list.json", "w", encoding="utf-8") as f:
     json.dump(file_list, f, ensure_ascii=False, indent=2)
 
 
-img_list = {chara.name: [img.name for img in chara.iterdir()] for chara in img_path.iterdir()}
+img_list = {
+    chara.name: [img.name for img in chara.iterdir()] for chara in img_path.iterdir()
+}
 
-with open('genshin_img_list.json', 'w', encoding='utf-8') as f:
+with open("genshin_img_list.json", "w", encoding="utf-8") as f:
     json.dump(img_list, f, ensure_ascii=False, indent=2)
 
-# 暂时关闭zip打包，等待解决lfs超出大小问题后恢复
-# resources_zip_path = Path() / 'resources.zip'
-# resources_zip = zipfile.ZipFile(resources_zip_path, 'w', zipfile.ZIP_DEFLATED)
+resources_zip_path = Path() / "resources.zip"
+resources_zip = zipfile.ZipFile(resources_zip_path, "w", zipfile.ZIP_DEFLATED)
 
-# for file in Path('fonts').iterdir():
-#     resources_zip.write(file)
-# for file in Path('LittlePaimon').rglob('*'):
-#     exclude_path_ = exclude_path + ["character_portrait"]
-#     if file.name not in exclude_path_ and file.parent.name not in exclude_path_:
-#         resources_zip.write(file)
+for file in Path("fonts").iterdir():
+    resources_zip.write(file)
+for file in Path("LittlePaimon").rglob("*"):
+    exclude_path_ = exclude_path + ["character_portrait"]
+    if file.name not in exclude_path_ and file.parent.name not in exclude_path_:
+        resources_zip.write(file)
 
-# resources_zip.close()
+resources_zip.close()
